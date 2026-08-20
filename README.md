@@ -45,6 +45,14 @@
 **Certificate ID:** `iwx6rx7fve4r`  
 **Vérification:** [Voir le certificat](https://verify.skilljar.com/c/iwx6rx7fve4r)
 
+---
+
+### 👷 **Introduction to agent skills**
+<img width="412" height="318" alt="certificate-zni5xi6cmnat-1787229720" src="https://github.com/user-attachments/assets/7b9a484b-1eba-403b-9209-250a23b480ad" />
+
+**Certificate ID:** `zni5xi6cmnat`  
+**Vérification:** [Voir le certificat](https://verify.skilljar.com/c/zni5xi6cmnat)
+
 <!-- Dupliquez un bloc ci-dessus pour chaque certification supplémentaire -->
 
 </div>
@@ -60,13 +68,14 @@ graph TD
     A[🏆 Claude Code 101] -->|COMPLETED| B[✅]
     C[🏆 Introduction to Model Context Protocol] -->|COMPLETED| B
     D[🏆 AI Fluency: Framework & Foundations] -->|COMPLETED| B
+    E[🏆 Introduction to agent skills] -->|COMPLETED| B
     G[📘 Model Context Protocol: Advanced Topics] -->|UPCOMING| H[🔜]
-    I[📙 Introduction to agent skills] -->|UPCOMING| H
-    J[📙 Introduction to subagents] -->|UPCOMING| H
+    I[📙 Introduction to subagents] -->|UPCOMING| H
     
     style A fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style C fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style D fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
+    style E fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
     style G fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
     style I fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
     style J fill:#E3F2FD,stroke:#1976D2,stroke-width:2px
@@ -82,8 +91,8 @@ graph TD
 | ✅ | **Claude Code 101** | Terminé |
 | ✅ | **Introduction to Model Context Protocol** | Terminé |
 | ✅ | **AI Fluency: Framework & Foundations** | Terminé |
+| ✅ | **Introduction to agent skills** | Terminé |
 | 📅 | **Model Context Protocol: Advanced Topics** | À venir |
-| 📅 | **Introduction to agent skills** | À venir |
 | 📅 | **Introduction to subagents** | À venir |
 
 ---
