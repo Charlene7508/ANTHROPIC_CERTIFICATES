@@ -39,7 +39,7 @@
 
 ---
 
-### 🚀 **AI Fluency: Framework & Foundations**
+### 🌀 **AI Fluency: Framework & Foundations**
 <img width="412" height="318" alt="certificate-iwx6rx7fve4r-1787215781" src="https://github.com/user-attachments/assets/67e97571-ca91-481d-a787-57b445865c1d" />
 
 **Certificate ID:** `iwx6rx7fve4r`  
