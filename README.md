@@ -40,10 +40,10 @@
 ---
 
 ### 🚀 **AI Fluency: Framework & Foundations**
-<img src="assets/[NOM_DE_VOTRE_IMAGE_3].png" alt="[Description de la certification 3]" width="600" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin: 20px 0;">
+<img width="412" height="318" alt="certificate-iwx6rx7fve4r-1787215781" src="https://github.com/user-attachments/assets/67e97571-ca91-481d-a787-57b445865c1d" />
 
-**Certificate ID:** `[VOTRE_ID_DE_CERTIFICAT_3]`  
-**Vérification:** [Voir le certificat]([LIEN_DE_VERIFICATION])
+**Certificate ID:** `iwx6rx7fve4r`  
+**Vérification:** [Voir le certificat](https://verify.skilljar.com/c/iwx6rx7fve4r)
 
 <!-- Dupliquez un bloc ci-dessus pour chaque certification supplémentaire -->
 
